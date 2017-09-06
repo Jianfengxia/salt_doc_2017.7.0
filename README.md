@@ -1,5 +1,5 @@
 # SaltStack Documentation Release 2017.7.0 手册翻译声明
-# 该翻译使用http://usyiyi.cn/translate/SaltStackDoc20177/index.html平台进行，GIT库不再更新翻译 #
+# 该翻译使用http://usyiyi.cn/translate/SaltStack_Doc_20177/index.html 平台进行，GIT库不再更新翻译 #
 ## 指定翻译文档
 
 SaltStack 官方文档我们必须选择一个版本来翻译。否则没法统一协调和分工。选择的版本如下：
